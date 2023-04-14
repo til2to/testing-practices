@@ -5,8 +5,6 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
@@ -19,30 +17,21 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To_Do_List] <a name="about-project"></a>
+# 📖 [Testing_practice] <a name="about-project"></a>
 
-**[milestone-books]** is a basic web application that allows users to add/remove tasks to and from a list of tasks
+**[Writing_unit_test_with_jest]** Writing unit tests cases for JavaScript simple tasks
 
 ## 🛠 Built With <a name="built-with"></a>
-- **[Html]**
-- **[Css]**
+- **[Jest_library]**
 - **[JavaScript]**
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Plain_JS_with_functions]**
-- **[Plain_JS_with_webpack_bundlers]**
-- **[Create_remove_and_clear_tasks]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://til2to.github.io/todo-list/dist/)
+- **[Writing_unit_tests_for_a_javascript_app]**
+- **[Using_AAA_pattern_for_unit_tests]**
+- **[Appreciate_the_essence_of_unit_testing]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,8 +43,9 @@
 To get a local copy up and running, follow these steps.
 1. install git 
 2. Clone the project from the repository, "git clone address"
-3. run "npm i" to install all dependencies and node modules
-4. Open it with the live server
+3. run "npm i" to install all dependencies and node modules including jest
+4. run "npm start"
+5. run "npm jest or npm run watch" to run the jest testing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,22 +57,6 @@ To get a local copy up and running, follow these steps.
 
 - GitHub: [@githubhandle](https://github.com/til2to)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dennis-owusu-835888206/
-)
-
-👤 **Tom Daniel**
-
-- GitHub: [@githubhandle](https://github.com/tomdan-ai)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tom-udoh-a89046256/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- **[Create_a_complete_todo_List_app]**
-- **[Make_it_more_colorful]**
-- **[Include_couple_of_animations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
